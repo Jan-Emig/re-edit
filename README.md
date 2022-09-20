@@ -1,6 +1,5 @@
 # Re-Edit
 ### Lightweight expandable rich text editor for React that combines simplicity with wide feature support.
-<br />
 ## Planned Features
 - [x] Text Formatting
 - [x] Selectable font size and family
